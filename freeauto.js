@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hệ Thống Tự Động Roll Free BOT
 // @namespace    Sửa bởi haibrvt
-// @version      7.0
+// @version      8.0
 // @description  thu nghiem
 // @author       haibrvt
 // @match        https://freebitco.in/*
