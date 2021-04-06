@@ -9,7 +9,7 @@
 // @downloadURL  https://raw.githubusercontent.com/haibrvt/freeb/main/freeauto.js
 // @grant        none
 // ==/UserScript==
-var min = 714;
+var min = 713;
 var max = 1365;
 
 function Sleep(milliseconds) {
