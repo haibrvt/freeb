@@ -6,6 +6,7 @@
 // @author       haibrvt
 // @match        https://freebitco.in/*
 // @match https://www.google.com/recaptcha/*
+// @downloadURL  https://raw.githubusercontent.com/haibrvt/freeb/main/freeauto.js
 // @grant        none
 // ==/UserScript==
 var min = 714;
